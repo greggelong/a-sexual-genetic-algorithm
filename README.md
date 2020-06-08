@@ -41,3 +41,5 @@ I create an initial population with 1000 numimals.
 the ones that pass the fitness test (being divisible evenly as the rules state) survive the others die.
 
 The ones that survive go through a sort of a-sexual reproduction where they produce an identical copy and a slightly mutated copy (two numbers have swapped places); The populations rise and fall and it gets an answer messy as it is.
+
+[a-sexual genetic algorithm](https://editor.p5js.org/greggelong/full/JGddd1svz)
